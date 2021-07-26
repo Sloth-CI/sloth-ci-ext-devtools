@@ -12,7 +12,7 @@ Enable the extension in the server config:
 
     extensions:
         dev:
-            # Use the module sloth_ci.ext.devtools.
+            # Use the module sloth_ci_ext_devtools.
             module: devtools
 
 Call `sci dev` with `-e` or `-v` to create an extensions or a validator template:

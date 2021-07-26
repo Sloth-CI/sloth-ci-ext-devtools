@@ -1,4 +1,4 @@
-# Utilities to help developers create validators and extensions for Sloth CI
+# Utilities to Create Validators and Extensions for Sloth CI
 
 
 ## Installation
